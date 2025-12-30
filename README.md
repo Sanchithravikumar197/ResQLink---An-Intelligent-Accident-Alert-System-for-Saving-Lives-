@@ -1,1 +1,2 @@
-# ResQLink---An-Intelligent-Accident-Alert-System-for-Saving-Lives-
+# ResQLink---An-Intelligent-Accident-Alert-System-for-Saving-Lives
+ResQLink, an innovative automatic accident detection and emergency alert system designed for vehicles. This project aims to reduce golden-hour fatalities by ensuring that help reaches accident victims as quickly as possible.Using Gyroscope and Accelerometer sensors integrated with an STM32 microcontroller, ResQLink intelligently detects sudden collisions or abnormal vehicle motion. Once an accident is identified, the system automatically sends alert messages to nearby hospitals and registered emergency contacts, sharing critical real-time data to enable rapid response.
